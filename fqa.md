@@ -75,5 +75,5 @@ kernel 处于[*] 状态，如何解决？
 如何邀请他人协助？
 解答
 
-在自己的 项目详情页 或 Notebook 中，点击头像右侧的 <img src="https://mo-imgs.momodel.cn/%E6%8F%92%E5%85%A5.png"  width="15" alt="">，可搜索并添加邀请协作的成员。
+在自己的 项目详情页 或 Notebook 中，点击头像右侧的 <img src="https://mo-imgs.momodel.cn/%E6%8F%92%E5%85%A5.png" style="margin-bottom: 4px" width="15" alt="">，可搜索并添加邀请协作的成员。
 被邀请人同意协作后，协作双方可以同时进入项目，可对同一个文件修改，系统会自动同步最新的文件内容。
