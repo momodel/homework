@@ -1,82 +1,193 @@
 {
-    "arr":[
+    "arr": [
         {
-            "time":"2018.08",
-            "title":"浙江大学暑期学校:大数据驱动的公共管理研究方法",
-            "desc":"Mo团队在暑期学校活动中，讲解了Python与数据处理、\n机器学习等知识。",
-            "img_url":"https://mo-imgs.momodel.cn/developPath/2018.08.png"
+            "time": "2018.08",
+            "time_en": "2018.08",
+            "title": "浙江大学暑期学校:大数据驱动的公共管理研究方法",
+            "title_en": "Summer activities of Zhejiang University: Public Management Research Method Driven by Big Data",
+            "desc": "Mo 团队在暑期学校活动中，讲解了 Python 与数据处理、\n机器学习等知识。",
+            "desc_en": "In the summer school activities, Mo team explained Python, data processing,machine learning and other knowledge.",
+            "img_url": "https://mo-imgs.momodel.cn/developPath/2018.08.png?imageslim"
         },
         {
-            "time":"2019.01",
-            "title":"浙江理工大学:从 Python 到人工智能实战",
-            "desc":"Mo 人工智能俱乐部在杭州举办的第一期学习分享会，带领大家从导入数据集，到搭建模型，通过 GPU 训练模型，利用 TensorBoard 可视化训练过程，最后部署形成应用。",
-            "img_url":"https://imgbed.momodel.cn/222.png"
+            "time": "2019.01",
+            "time_en": "2019.01",
+            "title": "浙江理工大学:从 Python 到人工智能实战",
+            "title_en": "Zhejiang Sci-Tech University：From Python to artificial intelligence",
+            "desc": "Mo 人工智能俱乐部在杭州举办的第一期学习分享会，带领大家从导入数据集，到搭建模型，通过 GPU 训练模型，利用 TensorBoard 可视化训练过程，最后部署形成应用。",
+            "desc_en": "Mo AI Club held the first learning and sharing session in Hangzhou. We led everyone to import the data set, built the model and trained the model through GPU, visualized the training process with Tensorboard, and finally deployed and formed the application.",
+            "img_url": "https://imgbed.momodel.cn/222.png?imageslim"
         },
         {
-            "time":"2019.03",
-            "title":"浙江工业大学:人工智能+大数据 掌控你的 AI 未来",
-            "desc":"Mo 开发者俱乐部在浙江工业大学举办的人工智能学习分享交流会，介绍人工智能与机器学习的基本概念与平台介绍，交流人工智能的发展、主要机器学习算法与模型，以及利用平台进行简单模型的实现。",
-            "img_url":"https://imgbed.momodel.cn/33.png"
+            "time": "2019.03",
+            "time_en": "2019.03",
+            "title": "浙江工业大学:人工智能+大数据 掌控你的 AI 未来",
+            "title_en": "Zhejiang University of Technology：AI + Big Data control your AI future",
+            "desc": "Mo 开发者俱乐部在浙江工业大学举办了人工智能学习分享交流会，介绍了人工智能与机器学习的基本概念和开发平台，交流人工智能的发展，讨论机器学习算法与模型，并利用平台完成简单模型的实现。",
+            "desc_en": "The AI learning and sharing meeting held by Mo Developer Club in Zhejiang University of Technology. We introduced the basic concepts and developing platform of artificial intelligence and machine learning, communicating the development of artificial intelligence, discussing machine learning algorithms and models, and finally we use the platform to complete the realization of simple models.",
+            "img_url": "https://imgbed.momodel.cn/33.png?imageslim"
         },
         {
-            "time":"2019.03 - 至今",
-            "title":"杭州机器学习开发者沙龙系列活动",
-            "desc":"Mo团队资深专家深入浅出的为大家阐明复杂深奥的机器学习原理，打破认知壁垒，手把手教你如何利用在线建模平台达成预期目标，将创意转化为现实。",
-            "img_url":"https://mo-imgs.momodel.cn/developPath/2019.03-%E8%87%B3%E4%BB%8A.png"
+            "time": "2019.03 - 至今",
+            "time_en": "2019.03 - Now",
+            "title": "杭州机器学习开发者沙龙系列活动",
+            "title_en": "Hangzhou machine learning developer series activities",
+            "desc": "Mo 团队资深专家深入浅出的为大家阐明复杂深奥的机器学习原理，打破认知壁垒，手把手教大家如何利用在线建模平台达成预期目标，将创意转化为现实。",
+            "desc_en": "Senior experts from Mo team explain complex and profound machine learning principles in simple words, breaking cognitive barriers, and teaching people how to use online modeling platform to achieve expected goals and turn creativity into reality.",
+            "img_url": "https://mo-imgs.momodel.cn/developPath/2019.03-%E8%87%B3%E4%BB%8A.png?imageslim"
         },
         {
-            "time":"2019.04",
-            "title":"浙大微软俱乐部讲座:用 Python 预测足球比赛结果",
-            "desc":"Mo人工智能俱乐部的成员代表进入校园，在浙江大学微软学生俱乐部进行了一场以“用Python预测足球比赛结果”的知识分享讲座。",
-            "img_url":"https://mo-imgs.momodel.cn/developPath/2019.04.png"
+            "time": "2019.04",
+            "time_en": "2019.04",
+            "title": "浙大微软俱乐部讲座:用 Python 预测足球比赛结果",
+            "title_en": "Microsoft club lecture of Zhejiang university: using Python to predict the result of football match",
+            "desc": "Mo 人工智能俱乐部的成员代表进入校园，在浙江大学微软学生俱乐部举办了一场以“用 Python 预测足球比赛结果”的知识分享讲座。",
+            "desc_en": "The member representatives of Mo AI Club went to the campus and held a knowledge sharing lecture on \"Predicting the Result of Football Matches with Python\" in Microsoft Club of Zhejiang University.",
+            "img_url": "https://mo-imgs.momodel.cn/developPath/2019.04.png?imageslim"
         },
         {
-            "time":"2019.09",
-            "title":"中科院 X CODATA 机器学习讲堂",
-            "desc":"Mo 团队在CODATA中国和中国科学院计算机网络信息中心举办的“科学大数据和机器学习”的国际培训班中，向来自10 多个国家的学员讲解了机器学习、深度学习等知识。",
-            "img_url":"https://mo-imgs.momodel.cn/developPath/2019.09.png"
+            "time": "2019.09",
+            "time_en": "2019.09",
+            "title": "中科院 X CODATA 机器学习讲堂",
+            "title_en": "Chinese Academy of Sciences and CODATA Machine Learning Lecture Hall",
+            "desc": "Mo 团队在 CODATA 中国和中国科学院计算机网络信息中心举办的“科学大数据和机器学习”的国际培训班中，向来自10 多个国家的学员讲解了机器学习、深度学习等知识。",
+            "desc_en": "In the international training course \"Science Big Data and Machine Learning\" held by CODATA China and Computer Network Information Center of Chinese Academy of Sciences, Mo team explained machine learning, deep learning and other knowledge to students from more than 10 countries.",
+            "img_url": "https://mo-imgs.momodel.cn/developPath/2019.09.png?imageslim"
         },
         {
-            "time":"2020.01",
-            "title":"“人工智能初步-五大经典机器学习算法”线上研训",
-            "desc":"为持续推进省内人工智能高中教育发展，浙江大学德清人工智能研究院与省教育厅教研联合成立了『浙江省人工智能高中教育联盟』。Mo协助浙江大学组织策划课程的内容，解答老师的信息技术教学中遇到的问题。",
-            "img_url":"https://mo-imgs.momodel.cn/developPath/2020.01.png"
+            "time": "2020.01",
+            "time_en": "2020.01",
+            "title": "“人工智能初步-五大经典机器学习算法”线上研训",
+            "title_en": "\"Artificial intelligence preliminary - five classic machine learning algorithms\" Online Research",
+            "desc": "为持续推进省内人工智能高中教育发展，浙江大学德清人工智能研究院与省教育厅教研联合成立了『浙江省人工智能高中教育联盟』。Mo 协助浙江大学组织策划课程的内容，解答老师的信息技术教学中遇到的问题。",
+            "desc_en": "In order to continuously promote the development of artificial intelligence high school education in the province, Deqing Artificial Intelligence Research Institute of Zhejiang University and the Teaching and Research Office of the Provincial Department of Education jointly established the \"Zhejiang Artificial Intelligence High School Education Alliance\". The Mo team assisted Zhejiang University in organizing and planning course contents and answering teachers' problems in information technology teaching.",
+            "img_url": "https://mo-imgs.momodel.cn/developPath/2020.01.png?imageslim"
         },
         {
-            "time":"2020.03",
-            "title":"疫情停课不停学-五天带你学会机器学习",
-            "desc":"疫情当前，Mo平台为了助力对人工智能领域有兴趣者在家学AI，为人工智能零基础的小白设计了一套经典机器学习算法的免费课程。",
-            "img_url":"https://mo-imgs.momodel.cn/developPath/2020.03.png"
+            "time": "2020.03",
+            "time_en": "2020.03",
+            "title": "疫情停课不停学-五天带你学会机器学习",
+            "title_en": "No classes but learning during the epidemic - Five days to understand machine learning",
+            "desc": "疫情当前，Mo 平台为了助力对人工智能领域有兴趣者在家学AI，为人工智能零基础的小白设计了一套经典机器学习算法的免费课程。",
+            "desc_en": "In order to help people who are interested in the field of artificial intelligence learn AI at home, Mo platform has designed a set of free courses on classic machine learning algorithms for newcomer who has no basic knowledge of artificial intelligence.",
+            "img_url": "https://mo-imgs.momodel.cn/developPath/2020.03.png?imageslim"
         },
         {
-            "time":"2020.04",
-            "title":"浙江大学：创新模型101—AI课程成果展示竞赛",
-            "desc":"针对浙大Mo平台“2020春夏——人工智能”课程的作业，我们在平台上开展了以“黑白棋”、“垃圾分类”、“图像恢复”为主题的三个人工智能比赛。",
-            "img_url":"https://mo-imgs.momodel.cn/developPath/2020.04.png"
+            "time": "2020.04",
+            "time_en": "2020.04",
+            "title": "浙江大学：创新模型101—AI课程成果展示竞赛",
+            "title_en": "Zhejiang University: Innovation Model 101 - AI Curriculum Achievements Display Competition",
+            "desc": "针对浙大 Mo 平台“2020春夏——人工智能”课程的作业，我们在平台上开展了以“黑白棋”、“垃圾分类”、“图像恢复”为主题的三个人工智能比赛。",
+            "desc_en": "For the assignment of \"Spring and Summer 2020 -- Artificial Intelligence\" course on Mo platform of Zhejiang University, we carried out three artificial intelligence competitions on the platform with the themes of \"Black and White Chess\", \"Garbage Sorting\" and \"ImagSe Restoration\".",
+            "img_url": "https://mo-imgs.momodel.cn/developPath/2020.04.png?imageslim"
         },
         {
-            "time":"2020.07 - 至今",
-            "title":"Mo机器学习实战系列活动",
-            "desc":"为提升机器学习爱好者实际运用机器学习算法的能力，Mo平台将算法理论与实战相结合，以直播的形式开展了“机器学习实战”系列活动。",
-            "img_url":"https://mo-imgs.momodel.cn/developPath/2020.07-%E8%87%B3%E4%BB%8A.png"
+            "time": "2020.07 - 至今",
+            "time_en": "2020.07 - Now",
+            "title": "Mo 机器学习实战系列活动",
+            "title_en": "Mo Machine Learning Activity Series",
+            "desc": "为提升机器学习爱好者实际运用机器学习算法的能力，Mo 平台将算法理论与实战相结合，以直播的形式开展了“机器学习实战”系列活动。",
+            "desc_en": "In order to improve the ability of machine learning enthusiasts to actually use machine learning algorithms, Mo platform combined algorithm theory with actual practice, and carried out a series of activities in the form of live broadcast \"Machine Learning in Practical Practice\".",
+            "img_url": "https://mo-imgs.momodel.cn/developPath/2020.07-%E8%87%B3%E4%BB%8A.png"
         },
         {
-            "time":"2020.07",
-            "title":"浙江高中新教材培训暨关键问题解决活动",
-            "desc":"浙江大学公共管理学院的吴超研究员在活动中以“面向高中信息技术课程的在线实训”为主题，将Mo平台做为教学工具，为即将到来的高中信息技术教学提供了一个人工智能培训的平台与课程的一系列教育方法。",
-            "img_url":"https://mo-imgs.momodel.cn/developPath/2020.07.png"
+            "time": "2020.07",
+            "time_en": "2020.07",
+            "title": "浙江高中新教材培训暨关键问题解决活动",
+            "title_en": "Zhejiang high school new textbook training - Solving key problem activities",
+            "desc": "浙江大学公共管理学院的吴超研究员在活动中以“面向高中信息技术课程的在线实训”为主题，将 Mo 平台做为教学工具，为即将到来的高中信息技术教学提供了一个人工智能培训的平台与课程的一系列教育方法。",
+            "desc_en": "Researcher Wu Chao from the School of Public Administration of Zhejiang University took \"online training for high school information technology courses\" as the theme and used the Mo platform as a teaching tool to provide information on the artificial intelligence platform and A series of educational methods for the course.",
+            "img_url": "https://mo-imgs.momodel.cn/developPath/2020.07.png?imageslim"
         },
         {
-            "time":"2020.08",
-            "title":"第三期“灰犀牛”人工智能技术特训班",
-            "desc":"信息与电子工程领域颠覆性技术高端论坛在德清县启幕，在这一论坛中也进行了第三期“灰犀牛”人工智能技术特训班的开班仪式。Mo作为这一期“灰犀牛”特训班的平台方，承办了其中的部分课程。",
-            "img_url":"https://mo-imgs.momodel.cn/developPath/2020.08_1.png"
+            "time": "2020.08",
+            "time_en": "2020.08",
+            "title": "第三期“灰犀牛”人工智能技术特训班",
+            "title_en": "The third \"grey rhinoceros\" artificial intelligence technology special training class",
+            "desc": "信息与电子工程领域颠覆性技术高端论坛在德清县启幕，在这一论坛中也进行了第三期“灰犀牛”人工智能技术特训班的开班仪式。Mo 作为这一期“灰犀牛”特训班的平台方，承办了其中的部分课程。",
+            "desc_en": "The High-end Forum on Disruptive Technologies in the Field of Information and Electronic Engineering kicked off in Deqing County, which included the opening ceremony of the third \"Grey Rhino\" artificial intelligence training class. Mo, as the platform for this \"Grey Rhinoceros\" special training course, undertook some of the courses.",
+            "img_url": "https://mo-imgs.momodel.cn/developPath/2020.08_1.png?imageslim"
         },
         {
-            "time":"2020.08",
-            "title":"浙江诸暨：暑期高中信息技术新教材研训活动",
-            "desc":"作为高中信息技术智慧化授课与在线实训教学平台，Mo团队成员参与了诸暨市组织开展了暑期高中信息技术新教材研训活动，以帮助一线教师理解教材编写意图和编写特点，更新教学理念，学习新知识模块。",
-            "img_url":"https://mo-imgs.momodel.cn/developPath/2020.08_2.png"
+            "time": "2020.08",
+            "time_en": "2020.08",
+            "title": "浙江诸暨：暑期高中信息技术新教材研训活动",
+            "title_en": "Zhejiang zhuji: summer high school information technology new teaching materials training activities",
+            "desc": "作为高中信息技术智慧化授课与在线实训教学平台，Mo 团队成员参与了诸暨市组织开展了暑期高中信息技术新教材研训活动，以帮助一线教师理解教材编写意图和编写特点，更新教学理念，学习新知识模块。",
+            "desc_en": "As a high school information technology intelligent teaching and online training teaching platform, Mo team members participated in Zhuji City organized a summer training activity for high school information technology new textbooks, to help front-line teachers understand the intention and characteristics of textbook writing, update teaching concepts, and learn new knowledge modules.",
+            "img_url": "https://mo-imgs.momodel.cn/developPath/2020.08_2.png?imageslim"
+        },
+        {
+            "time": "2020.08",
+            "time_en": "2020.08",
+            "title": "浙江德清普通高中人工智能教学试点及培训活动",
+            "title_en": "Artificial intelligence teaching pilot and training activities in Zhejiang Deqing General Senior High School",
+            "desc": "Mo 团队成员介绍人工智能建模平台 Mo 的基本情况和使用方法，带领老师了解信息技术必修一的项目挑战，开展新课程背景下的课程设计。",
+            "desc_en": "The Mo team members introduced the basic situation and use methods of the artificial intelligence modeling platform Mo, led the teachers to understand the project challenges of information technology required I, and carried out the curriculum design under the background of the new curriculum.",
+            "img_url": "https://mo-imgs.momodel.cn/developPath/2020.08_3.png?imageslim"
+        },
+        {
+            "time": "2020.08",
+            "time_en": "2020.08",
+            "title": "浙教版高中信息技术新教材教研培训",
+            "title_en": "Zhejiang Education Edition High School Information Technology New Textbook Teaching Research Training ",
+            "desc": "浙江大学吴飞教授开展“选修《人工智能初步》教材设计与分析”直播，帮助一线教研人员把握新教材重难点，适应新教材带来的挑战。",
+            "desc_en": "Professor Wu Fei of Zhejiang University conducted a live broadcast of the \"Design and Analysis of the Elected Teaching Material of Artificial Intelligence\" to help the front-line teaching and research staff grasp the important and difficult points of the new teaching material and adapt to the challenges brought by the new teaching material.",
+            "img_url": "https://mo-imgs.momodel.cn/developPath/2020.08_4.png?imageslim"
+        },
+        {
+            "time": "2020.09",
+            "time_en": "2020.09",
+            "title": "杭州二中白马湖学校“人工智能初探”小课堂",
+            "title_en": "\"Introduction to Artificial Intelligence\" Class of Hangzhou No. 2 Middle School Baima Lake School",
+            "desc": "浙江大学吴超教授利用 Mo 平台，通过生动的案例向同学们介绍了什么是人工智能以及人工智能在许多行业中的应用，帮助学生建立对人工智能的初步概念。",
+            "desc_en": "Professor Wu Chao from Zhejiang University introduced what artificial intelligence is and its application in many industries through vivid cases on Mo platform, helping students to establish a preliminary concept of artificial intelligence.",
+            "img_url": "https://mo-imgs.momodel.cn/developPath/2020.09_1.png?imageslim"
+        },
+        {
+            "time": "2020.09",
+            "time_en": "2020.09",
+            "title": "绍兴柯桥：社区学院人工智能教育培训",
+            "title_en": "Shaoxing Keqiao: Artificial intelligence education and training in community college",
+            "desc": "浙江大学公共管理学院教授吴超发表主题为“面向中小学的人工智能教育”演讲，其中介绍了人工智能目前在教育领域遇到的挑战和困难，包括学生的学术断层、教资和设备投入不足等，同时推广人工智能教育实训平台 Mo。",
+            "desc_en": "Professor Wu Chao from the School of Public Administration of Zhejiang University gave a speech on \"Artificial Intelligence Education for Primary and Secondary Schools\", which introduced the challenges and difficulties that artificial intelligence is currently encountering in the education field, including students’ academic faults, insufficient teaching resources and equipment investment Etc., while promoting the AI education training platform Mo.",
+            "img_url": "https://mo-imgs.momodel.cn/developPath/2020.09_2.png?imageslim"
+        },
+        {
+            "time": "2020.09 - 2020.11",
+            "time_en": "2020.09 - 2020.11",
+            "title": "浙江大学课程：《人工智能算法与系统》",
+            "title_en": "Zhejiang University Course: Artificial Intelligence Algorithms and Systems",
+            "desc": "Mo 平台为1300多名浙江大学研究生学习《人工智能算法与系统》课程提供教学、实训和作业平台，并顺利帮助其完成期末测试。",
+            "desc_en": "Mo platform provided a teaching, practical training and operation platform for more than 1,300 graduate students of Zhejiang University to study the course \"Artificial Intelligence Algorithms and Systems\", and successfully helps them complete the final test.",
+            "img_url": "https://mo-imgs.momodel.cn/developPath/2020.09_3.png?imageslim"
+        },
+        {
+            "time": "2020.09 - 2020.12",
+            "time_en": "2020.09 - 2020.12",
+            "title": "2020“智海”人工智能技术服务技能大赛",
+            "title_en": "2020 \"ZhiHai\" artificial intelligence technology service skills competition",
+            "desc": "为推进人工智能在职业院校学生的普及，杭州芄兰科技有限公司携人工智能实训平台 Mo 承办该大赛。大赛吸引近百所高校百余支队伍参加，参赛队伍利用 Mo 平台顺利完成赛前培训和最终比赛。",
+            "desc_en": "To promote the popularity of artificial intelligence in the vocational college students, Hangzhou WanLan technology corporation, with artificial intelligence training platform Mo to undertake the contest. The competition attracted nearly 100 universities and more than 100 teams to participate in the competition. The participating teams successfully completed the pre-competition training and final competition by using the Mo platform.",
+            "img_url": "https://mo-imgs.momodel.cn/developPath/2020.09_4.png?imageslim"
+        },
+        {
+            "time": "2020.10",
+            "time_en": "2020.10",
+            "title": "中国国际智能产品博览会",
+            "title_en": "China International Smart Products Expo",
+            "desc": "Mo 平台以其简洁的风格和实用的功能吸引了许多游客和公司前来参观询问，平台成员为展区游客介绍平台功能，很多机构明确表示有合作的意向。",
+            "desc_en": "With its simple style and practical functions, Mo platform attracted many tourists and companies to visit and inquire about it. Members of the platform introduced the functions of the platform to visitors in the exhibition area, and many institutions clearly expressed their intention of cooperation.",
+            "img_url": "https://mo-imgs.momodel.cn/developPath/2020.10.png?imageslim"
+        },
+        {
+            "time": "2020.12",
+            "time_en": "2020.12",
+            "title": "AAT人工智能能力评测系统上线",
+            "title_en": "The AAT AI capability evaluation system went online",
+            "desc": "人工智能实训平台 Mo 联手浙江大学为大学生提供相应难度的标准化测试，并颁布具有实际效力的证书，同时 Mo 积极联系知名企业筹备浙大专场AAT测试，帮助学生解决实习和就业问题。",
+            "desc_en": "Mo, an AI training platform, has teamed up with Zhejiang University to provide standardized tests of corresponding difficulty for college students and issue a certificate with practical effect. At the same time, Mo actively contacted well-known enterprises to prepare for the special AAT test in Zhejiang University to help students solve the problems of internship and employment.",
+            "img_url": "https://mo-imgs.momodel.cn/developPath/2020.12.png?imageslim"
         }
     ]
 }
