@@ -181,15 +181,6 @@
             "img_url": "https://mo-imgs.momodel.cn/developPath/2020.10.png?imageslim"
         },
         {
-            "time": "2020.11",
-            "time_en": "2020.11",
-            "title": "“智海”人工智能技术服务技能大赛",
-            "title_en": "zhihai Artificial Intelligence Technical Service Skills Competition",
-            "desc": "Mo平台联合浙江大学教育部人工智能协同创新中心举办，在人工智能技术应用专业设立之初即吸引了全国96所院校，160支队伍报名参加，报名人数近600名。本次大赛面向高职及以上院校，以“人工智能技术技能”为主题，围绕计算机视觉开发和自然语言处理两个竞赛领域，对学生的技能水平做了一次全面锻炼，同时也是深化“产教结合”加强校企合作的一次具体实践，是拓宽人才培养渠道的一次成功尝试。",
-            "desc_en": "MO Platform, in collaboration with the Ministry of Education's AI Collaborative Innovation Center at Zhejiang University, organized an event that attracted 96 universities and 160 teams from across the country, with nearly 600 participants. This competition, aimed at vocational colleges and higher education institutions, focused on the theme of 'AI Technology Skills' and revolved around two competition domains: computer vision development and natural language processing. It provided comprehensive training and exercise for students' skill levels while also serving as a concrete practice to deepen the integration of industry and education and strengthen school-enterprise cooperation. This successful attempt has expanded the channels for talent development.",
-            "img_url": "https://imgbed.momodel.cn/docs/图片1.png?imageslim"
-        },
-        {
             "time": "2020.12",
             "time_en": "2020.12",
             "title": "AAT人工智能能力评测系统上线",
@@ -202,7 +193,7 @@
             "time": "2021.02",
             "time_en": "2021.02",
             "title": "Mo & 海康威视 人工智能能力评测大赛",
-            "title_en": "Mo & Hikvision Artificial Intelligence Capability Evaluation Competition",
+            "title_en": "Mo & Hikvision Artificial Intelligence Ability Test Competition",
             "desc": "为响应国家建立新一代人工智能教育，激发在校学生学习人工智能热情，同时寻找拥有智能物联共建者，Mo联合浙江大学和海康威视开展“海康威视 X 浙江大学 人工智能能力评测大赛",
             "desc_en": "In response to the country's establishment of a new generation of artificial intelligence education, to stimulate students' enthusiasm for learning artificial intelligence, and to find co-builders with intelligent IoT, Mo teamed up with Zhejiang University and Hikvision to 'launch the Hikvision Evaluation Contest'",
             "img_url": "https://imgbed.momodel.cn/docs/图片2.png?imageslim"
@@ -213,161 +204,161 @@
   "title": "Mo x AI TIME & 未来杯｜走进浙江大学！",
   "title_en": "Mo & Hikvision Artificial Intelligence Capability Evaluation Competition",
   "desc": "AI TIME 是清华大学计算机系一群关注人工智能发展，并有思想情怀的青年学者创办的圈子，迄今为止，AI TIME已经邀请了900多位海内外讲者，举办了逾450场活动，超500万人次观看。Mo联合浙江大学向更多人工智能领域的学员提供内容与服务！",
-  "desc_en": " ",
+  "desc_en": "AI TIME is a community founded by a group of young scholars from the Department of Computer Science at Tsinghua University, who are dedicated to the development of artificial intelligence with intellectual and emotional engagement. Up to now, AI TIME has invited over 900 speakers from both domestic and international backgrounds, organized more than 450 events, and attracted over 5 million viewers. Mo, in collaboration with Zhejiang University and AI TIME, aims to provide content and services to a broader range of students in the field of artificial intelligence! ",
   "img_url": "https://imgbed.momodel.cn/docs/Mo x AI TIME & 未来杯｜走进浙江大学.png"
 },
 {
   "time": "2021.07",
   "time_en": "2021.07",
   "title": "Mo-Tutor全新教学模式上线",
-  "title_en": " ",
-  "desc": "Mo平台独创性开发了“沉浸式教学模式Mo-Tutor”，在保留语音指导的基础上，着力打造灵活性更高、更具个性化的“语音伴随”体系。全新的Mo-Tutor模式，将改变流水账式的知识点堆砌、录播视频老师自说自话、学习者被动填鸭的困境，提供一种清晰明确、环环相扣、实时互动的教学模式。",
-  "desc_en": " ",
+  "title_en": "Mo-Tutor, a brand-new teaching mode, is now launched.",
+  "desc": "Mo平台独创性开发了“沉浸式教学模式Mo-Tutor”，将改变流水账式的知识点堆砌、录播视频老师自说自话、学习者被动填鸭的困境，提供一种清晰明确、环环相扣、实时互动的教学模式。",
+  "desc_en": " Mo platform has innovatively developed the “Immersive Teaching Mode - Mo-Tutor”, which will change the traditional approach of simply piling up knowledge points, passive learning through pre-recorded videos, and learners being spoon-fed. It provides a clear, interconnected, and real-time interactive teaching mode.",
   "img_url": "https://imgbed.momodel.cn/docs/Mo-Tutor全新教学模式上线.png"
 },
 {
   "time": "2021.07",
   "time_en": "2021.07",
   "title": "Mo & 翁恺老师 《从Python到人工智能》",
-  "title_en": " ",
-  "desc": "AI时代，针对大家在编程及AI学习中的困境，人工智能教育专家Mo特别邀请浙江大学翁恺老师，通过线上形式，举办一期公益性质的Python暑期夏令营，以“掌握最少必要知识”为设计理念，依托Mo平台（momodel.cn）全景式教学模式，帮助大家从零开始学习Python，成功入门人工智能，为自身发展奠定基础。",
-  "desc_en": " ",
+  "title_en": " Mo and Teacher Weng Kai present “From Python to Artificial Intelligence.”",
+  "desc": "AI时代，针对大家在编程及AI学习中的困境，人工智能教育专家Mo特别邀请浙江大学翁恺老师，帮助大家从零开始学习Python，成功入门人工智能，为自身发展奠定基础",
+  "desc_en": "In the era of AI, addressing the challenges faced by individuals in programming and AI learning, AI education expert Mo has specially invited Teacher Weng Kai from Zhejiang University to help everyone learn Python from scratch and successfully enter the field of artificial intelligence, laying a solid foundation for personal development. ",
   "img_url": "https://imgbed.momodel.cn/docs/Mo & 翁恺老师 《从Python到人工智能》.png"
 },
 {
   "time": "2021.08",
   "time_en": "2021.08",
   "title": "Mo项目板块更新", 
-  "title_en": " ",
+  "title_en": "Mo project sections have been updated. ",
   "desc": "增加更多可玩性的内容，AI不应该存在于大家的想象当中。Mo一直为助力人工智能普及化贡献力量。",
-  "desc_en": " ",
+  "desc_en": "We have added more engaging content to enhance the playability. AI should not only exist in people’s imagination. Mo has been committed to contributing to the popularization of artificial intelligence. ",
   "img_url": "https://imgbed.momodel.cn/docs/Mo项目板块更新.png"
 },
 {
   "time": "2021.11",
   "time_en": "2021.11",
-  "title": "MO平台全面助力2021年华东六校“AI+X”微专业，为其提供官方教学及实训平台支撑", 
-  "title_en": " ",
+  "title": "MO助力华东六校“AI+X”微专业", 
+  "title_en": "MO platform fully supports the “AI+X” Micro-degree program of six universities in East China. ",
   "desc": "“AI+X”微专业是在华东五校教学协同中心的组织下，由浙江大学、复旦大学、中国科学技术大学、上海交通大学、南京大学和同济大学联合华为、百度和商汤共同成立的新一代人工智能科教育人联合体正式发布的创新性人工智能人才培育项目。Mo平台为华东六校开展课程提供教学管理平台支持。",
-  "desc_en": " ",
+  "desc_en": "The “AI+X” Micro-degree program is an innovative artificial intelligence talent development project officially launched by a collaborative alliance of Zhejiang University, Fudan University, University of Science and Technology of China, Shanghai Jiao Tong University, Nanjing University, and Tongji University, under the organization of the East China Teaching Collaboration Center. This project is jointly established by Huawei, Baidu, and SenseTime. MO platform provides teaching management platform support for the courses conducted by the six universities in East China. ",
   "img_url": "https://imgbed.momodel.cn/docs/MO平台全面助力2021年华东六校“AI+X”微专业，为其提供官方教学及实训平台支撑.png"
 },
 {
   "time": "2021.12",
   "time_en": "2021.12",
   "title": "Mo荣获浙江省科技厅“2022年度‘尖兵’‘领雁’研发攻关计划”立项", 
-  "title_en": " ",
+  "title_en": "Mo has been awarded the project of “2022 ‘Sharp Blade’ and ‘Leading Goose’ Research and Development Program” by the Zhejiang Provincial Department of Science and Technology. ",
   "desc": "由Mo联合浙江大学、浙江师范大学申报的“人工智能智慧教育”通过了“尖兵”“领雁”计划的立项，成为互联网＋、在线教育关键技术及产品榜单上的成员之一。", 
-  "desc_en": " ",
+  "desc_en": "The project “Artificial Intelligence Smart Education,” jointly proposed by Mo, Zhejiang University, and Zhejiang Normal University, has been approved under the “Sharp Blade” and “Leading Goose” Program. It has become one of the members on the list of key technologies and products in the Internet Plus and online education field. ",
   "img_url": "https://imgbed.momodel.cn/docs/Mo荣获浙江省科技厅“2022年度‘尖兵’‘领雁’研发攻关计划”立项.png"
 },
 {
   "time": "2022.01",
   "time_en": "2022.01",
   "title": "Mo举办2022年第一场AI职业院校推荐会", 
-  "title_en": " ",
-  "desc": "为贯彻落实《深化新时代教育评价改革总体方案》《国家职业教育改革实施方案》等文件精神，不断深化职业教育教学改革，有效对接国家教学标准，Mo联合浙江大学教育部人工智能协同创新中心、浙江大学人工智能研究所、智海科教平台、广东科学技术职业学院、杭州科技职业技术学院联合举办AI职业院校推介会，助力职教人才培养",
-  "desc_en": " ",
+  "title_en": "Mo is hosting the first AI Career College Fair of 2022.",
+  "desc": "为贯彻落实职业教育人工智能发展等文件精神，Mo联合浙江大学教育部人工智能协同创新中心、浙江大学人工智能研究所、智海科教平台、广东科学技术职业学院、杭州科技职业技术学院联合举办AI职业院校推介会，助力职教人才培养",
+  "desc_en": "To implement the spirit of documents related to the development of artificial intelligence in vocational education, Mo, in collaboration with the Ministry of Education’s AI Collaborative Innovation Center at Zhejiang University, Zhejiang University Institute of Artificial Intelligence, Zhihai Science and Education Platform, Guangdong Vocational College of Science and Technology, and Hangzhou Vocational and Technical College, is jointly organizing an AI Career College Fair to support the training of vocational education talents. ",
   "img_url": "https://imgbed.momodel.cn/docs/Mo举办2022年第一场AI职业院校推荐会.png"
 },
 {
   "time": "2022.04",
   "time_en": "2022.01",
   "title": "Mo智海平台签署战略合作协议 创新科教资源服务模式 助力AI教育发展", 
-  "title_en": "",
-  "desc": "浙江大学信息技术中心是全国各高校信息化建设的标杆单位。而浙江大学人工智能研究所，其教学科研更是在全国占据领先地位。Mo平台深耕人工智能教育领域，具备成熟的运营体系与力量。三方将在教育信息化建设和研究领域的优势具有互补性，本次合作宗旨是通过三方的紧密合作，打造三赢、可持续发展的战略合作关系。三方将通过本次战略合作，能够帮助各方提升整体研究和实践能力，共同为学校在人工智能领域人才培养做出新的贡献。",
-  "desc_en": " ",
+  "title_en": "Mo platform has signed a strategic cooperation agreement, innovating the mode of scientific and educational resource services to support the development of AI education.",
+  "desc": "浙江大学信息技术中心、浙江大学人工智能研究所与Mo三方将在教育信息化建设和研究领域紧密合作，打造三赢、可持续发展的战略合作关系。三方将通过本次战略合作，共同为学校在人工智能领域人才培养做出新的贡献。",
+  "desc_en": "Zhejiang University Information Technology Center, Zhejiang University Institute of Artificial Intelligence, and Mo will closely collaborate in the fields of educational informatization construction and research, establishing a strategic partnership for mutual benefit and sustainable development. Through this strategic cooperation, the three parties aim to make new contributions to talent development in the field of artificial intelligence for schools. ",
   "img_url": "https://imgbed.momodel.cn/docs/Mo智海平台签署战略合作协议 创新科教资源服务模式 助力AI教育发展.png"
 },
 {
   "time": "2022.05",
   "time_en": "2022.05",
   "title": "Mo举办2022RoboCom机器人开发者大赛CAIP专题赛项", 
-  "title_en": "",
-  "desc": "由工业和信息化部人才交流中心主办的RoboCom机器人开发者大赛连续两年被列入中国高等教育学会发布的“全国普通高校大学生竞赛榜单”。Mo开展支持，启动“2022RoboCom机器人开发者大赛”CAIP应用任务赛、算法调优赛两个专题赛项。",
-  "desc_en": " ",
+  "title_en": "Mo is hosting the 2022 RoboCom Robot Developer Competition, featuring the CAIP Special Event.",
+  "desc": "Mo开展支持，启动由工业和信息化部人才交流中心主办“2022RoboCom机器人开发者大赛”CAIP应用任务赛、算法调优赛两个专题赛项。",
+  "desc_en": " With the support of Mo, the Ministry of Industry and Information Technology’s Talent Exchange Center has launched the “2022 RoboCom Robot Developer Competition,” featuring two special events: the CAIP Application Task Challenge and the Algorithm Optimization Challenge.",
   "img_url": "https://imgbed.momodel.cn/docs/Mo举办2022RoboCom机器人开发者大赛CAIP专题赛项.png"
 },
 {
   "time": "2022.06",
   "time_en": "2022.06",
   "title": "Mo举办BDSC2022大赛", 
-  "title_en": "",
-  "desc": "社会计算创新大赛暨余杭区数据创新赛由中国人工智能学会和浙江省大数据发展管理局联合主办，CAAI社会计算与社会智能专委、杭州市余杭区、浙江大学公共管理学院共同承办，旨在通过大赛促进数字化改革，为推动共同富裕提供数字化改革方案。",
-  "desc_en": " ",
+  "title_en": "Mo is hosting the BDSC2022 competition.",
+  "desc": "社会计算创新大赛由中国人工智能学会和浙江省大数据发展管理局联合主办，CAAI社会计算与社会智能专委、杭州市余杭区、浙江大学公共管理学院共同承办，旨在通过大赛促进数字化改革，为推动共同富裕提供数字化改革方案。",
+  "desc_en": "The Social Computing Innovation Competition is co-hosted by the Chinese Association for Artificial Intelligence (CAAI) and the Zhejiang Provincial Bureau of Big Data Development and Management. It is jointly organized by the CAAI Committee on Social Computing and Social Intelligence, the Yuhang District of Hangzhou City, and the School of Public Administration at Zhejiang University. The competition aims to promote digital transformation and provide digital reform solutions to drive shared prosperity. ",
   "img_url": "https://imgbed.momodel.cn/docs/Mo举办BDSC2022大赛.png"
 },
 {
   "time": "2022.07",
   "time_en": "2022.07",
   "title": "浙江省软件行业协会人工智能人才发展专委会筹备会在浙江大学成功召开", 
-  "title_en": " ",
-  "desc": "为支持相关浙江省人工智能人才培养相关活动，Mo联合浙江省软件行业协会，成立浙江省软件行业协会人工智能人才发展专业委员会（以下简称“专委会”）来自浙大、阿里云、创业慧康、网易、信雅达等12家高校和企业的15位人工智能相关负责人参加会议。",
-  "desc_en": " ",
+  "title_en": "The preparatory meeting of the Zhejiang Provincial Software Industry Association’s Committee for Artificial Intelligence Talent Development was successfully held at Zhejiang University. ",
+  "desc": "Mo联合浙江省软件行业协会，成立浙江省软件行业协会人工智能人才发展专业委员会（以下简称“专委会”）来自浙大、阿里云、创业慧康、网易、信雅达等12家高校和企业的15位人工智能相关负责人参加会议。",
+  "desc_en": " Mo, in collaboration with the Zhejiang Provincial Software Industry Association, has established the Zhejiang Provincial Software Industry Association Committee for Artificial Intelligence Talent Development (referred to as the “Committee”). The meeting was attended by 15 representatives from 12 universities and companies, including Zhejiang University, Alibaba Cloud, Chuangyehuikang, NetEase, and Xinyada, who are responsible for artificial intelligence-related matters.",
   "img_url": "https://imgbed.momodel.cn/docs/浙江省软件行业协会人工智能人才发展专委会筹备会在浙江大学成功召开.png"
 }, 
 {
   "time": "2022.08",
   "time_en": "2022.08",
   "title": "Mo联合中国人工智能学会举办BDSC2022新一代人工智能教育专场会", 
-  "title_en": " ",
-  "desc": "Mo参与承办的新一代人工智能教育专场会在酒店分会场拉开帷幕，邀请政府和教育界的重要人员以及计算机科学、软件领域的专家学者参会。专场会聚焦“人工智能人才培养”的主题，在探讨数字社会的基础性、前瞻性和战略性理论及其应用的基础上，交流新的人才培养思想和方法，展望数字社会未来的人才发展趋势。",
-  "desc_en": " ",
+  "title_en": "Mo, in collaboration with the Chinese Association for Artificial Intelligence (CAAI), is hosting the BDSC2022 Special Session on Next-Generation Artificial Intelligence Education. ",
+  "desc": "新一代人工智能教育专场会由政府和教育界的重要人员以及计算机科学、软件领域的专家学者参会。专场会聚焦“人工智能人才培养”的主题，在探讨数字社会的基础性、前瞻性和战略性理论及其应用的基础上，交流新的人才培养思想和方法，展望数字社会未来的人才发展趋势。",
+  "desc_en": "The Special Session on Next-Generation Artificial Intelligence Education is attended by key government and education officials, as well as experts and scholars in the fields of computer science and software. The session focuses on the theme of “Artificial Intelligence Talent Development” and aims to explore foundational, forward-looking, and strategic theories and applications in the digital society. It provides a platform for exchanging new ideas and methods for talent development and envisioning future trends in talent development in the digital society. ",
   "img_url": "https://imgbed.momodel.cn/docs/Mo联合中国人工智能学会举办BDSC2022新一代人工智能教育专场会.png"
 },
 {
   "time": "2022.10",
   "time_en": "2022.10",
   "title": "2022浙江程序员节系列活动", 
-  "title_en": " ",
+  "title_en": "The series of activities for the 2022 Zhejiang Programmer Festival. ",
   "desc": "Mo联合浙江省软件行业协会开展1024程序员节，开展系列讲座、组织人员学习分享，联合企业进行人工智能能力竞赛，助力省内人才培养服务。",
-  "desc_en": " ",
+  "desc_en": "Mo, in collaboration with the Zhejiang Provincial Software Industry Association, is organizing the 1024 Programmer Festival. The festival includes a series of lectures, knowledge sharing sessions, and AI capability competitions in collaboration with companies to support talent development services within the province. ",
   "img_url": "https://imgbed.momodel.cn/docs/2022浙江程序员节系列活动.png"
 },
 {
   "time": "2022.10",
   "time_en": "2022.10",
   "title": "「Mo AI编程」微信小程序上线", 
-  "title_en": " ",
-  "desc": "Mo团队助力人工智能普及化，联合浙大人工智能教育专家团队、复旦交大同济等华东六所顶尖高校以及AI+X 和 浙大图灵班 授课团队历时三个月时间在经历了无数次的讨论、设计、调整，设计开发了「Mo AI编程」-人工智能学习小程序！",
-  "desc_en": " ",
+  "title_en": "The “Mo AI Coding” WeChat mini-program is now available online. ",
+  "desc": "Mo团队助力人工智能普及化，联合浙大人工智能教育专家团队历时三个月时间在经历了无数次的讨论、设计、调整，上线了为入门者定制的「Mo AI编程」-人工智能学习小程序！",
+  "desc_en": "Mo team is committed to promoting the popularization of artificial intelligence. In collaboration with Zhejiang University’s AI education expert team, after three months of countless discussions, designs, and adjustments, they have launched the “Mo AI Coding” mini-program tailored for beginners in artificial intelligence learning! ",
   "img_url": "https://imgbed.momodel.cn/docs/「Mo AI编程」微信小程序上线.png"
 },
 {
   "time": "2023.03",
   "time_en": "2023.03",
   "title": "ChatGPT 聊天室，我们上线了！！", 
-  "title_en":" " ,
+  "title_en":"ChatGPT Chatroom, we are live now!! " ,
   "desc":"Mo紧跟大模型风潮，为了更好地服务大众，上线AI答疑专属ChatGPT，新功能利用官方的 API 接口，应用于课程学习中，实现【简单】、【快捷】、【低门槛】的应用方式，在使用上也能够更加快速并且完整地服务于大家。",
-  "desc_en": " ",
+  "desc_en": "Mo is keeping up with the trend of large-scale models and has launched an AI Q&A exclusive ChatGPT to better serve the public. This new feature utilizes the official API interface and is applied in course learning, providing a simple, fast, and user-friendly application method. It aims to provide quick and comprehensive service to everyone in an efficient manner. ",
   "img_url": "https://imgbed.momodel.cn/docs/ChatGPT 聊天室，我们上线了！！.png"
 },
 {
   "time": "2023.05",
   "time_en": "2023.05",
   "title": "Mo举办CAAI-BDSC 2023 社会计算创新大赛", 
-  "title_en": " ",
+  "title_en": "Mo is hosting the CAAI-BDSC 2023 Social Computing Innovation Competition. ",
   "desc": "为了促进交叉学科汇聚与融合，CAAI第八届全国大数据与社会计算学术大会将开展CAAI-BDSC2023社会计算创新大赛。本次比赛围绕“数字化转型与可持续发展”主题，旨在通过社会计算增进自我认知、结识他人，实现数字社会的健康、和谐、可持续发展。",
-  "desc_en": " ",
+  "desc_en": "In order to promote interdisciplinary integration and convergence, the 8th CAAI National Conference on Big Data and Social Computing will hold the CAAI-BDSC2023 Social Computing Innovation Competition. This competition focuses on the theme of “Digital Transformation and Sustainable Development” and aims to enhance self-awareness, foster connections among individuals, and achieve a healthy, harmonious, and sustainable development of the digital society through social computing. ",
   "img_url": " "
 },
 {
   "time": "2023.08",
   "time_en": "2023.08",
   "title": "Mo 2023——新一代人工智能职教论坛成功举办", 
-  "title_en": " ",
-  "desc": "8月1日上午，Mo 2023——新一代人工智能职教论坛在浙江大学公共管理学院举行。省教育厅职成教处处长陈达应邀出席，浙江大学人工智能协同创新中心研究员吴超、杭州科技职业技术学院物联网技术学院院长金文兵、 浙江大学人工智能研究所副所长肖俊、浙江大学出版社新形态教材出版中心副主任柯华杰、杭州职业技术学院教师代表张净、浙江大学上海高等研究院人工智能+高等教育联合创新中心副主任李骏翔、浙江正元数据科技有限公司 CEO 袁征出席论坛并致辞。",
-  "desc_en": " ",
+  "title_en": "The Mo 2023 Next-Generation AI Vocational Education Forum was successfully held. ",
+  "desc": "省教育厅职成教处、浙江大学人工智能协同创新中心、杭州科技职业技术学院物联网技术学院、浙江大学人工智能研究所、浙江大学出版社新形态教材出版中心、杭州职业技术学院、浙江正元数据科技有限公司等多家单位出席论坛并致辞。",
+  "desc_en": "The Vocational Education Department of the Provincial Education Department, Zhejiang University’s AI Collaborative Innovation Center, Hangzhou Vocational and Technical College’s IoT Technology College, Zhejiang University Institute of Artificial Intelligence, Zhejiang University Publishing House’s New Form Textbook Publishing Center, Hangzhou Vocational and Technical College, and Zhejiang Zhengyuan Data Technology Co., Ltd. were among the many units that attended the forum and delivered speeches. ",
   "img_url": "https://imgbed.momodel.cn/docs/Mo 2023——新一代人工智能职教论坛成功举办.png"
 },
 {
   "time": "2023.09",
   "time_en": "2023.09",
   "title": "Mo-AI 在线教学服务正式上线！", 
-  "title_en": " ",
-  "desc": "【Mo-AI 在线教学服务】是浙江大学 Mo人工智能团队专门为解决教师开课需求而开发的服务平台。希望老师“像购物一样完成一门人工智能课程的搭建”，解决课程资源老旧、实训资源缺乏、训练资源不足的难题，我们深知院校老师在人工智能专业教学上的挑战，因此欢迎各位老师体验并使用【Mo-AI 在线教学服务】，为人工智能人才培养助力。",
-  "desc_en": " ",
-  "img_url": "https://imgbed.momodel.cn/docs/Mo-AI 在线教学服务正式上线！.png"
+  "title_en": "Mo-AI online teaching service is officially launched! ",
+  "desc": "【Mo-AI 在线教学服务】是浙江大学 Mo人工智能团队专门为解决教师开课需求而开发的服务平台。希望老师“像购物一样完成一门人工智能课程的搭建”，解决教学难题，我们深知院校老师在人工智能专业教学上的挑战，希望为人工智能人才培养助力。",
+  "desc_en": "Mo-AI online teaching service is a platform developed by the Mo Artificial Intelligence team at Zhejiang University specifically to address the needs of teachers in creating courses. We aim to provide a solution to teaching challenges and enable teachers to easily build AI courses, just like shopping for products. We understand the challenges faced by university teachers in AI education and strive to support the cultivation of AI talents. ",
+  "img_url": "https://imgbed.momodel.cn/sprintCamp/mo-saas%E5%9B%BE%E7%89%87%E6%A0%B7%E4%BE%8B.png"
 }
     ]
 }
