@@ -359,6 +359,96 @@
           "desc": "【Mo-AI 在线教学服务】是浙江大学 Mo人工智能团队专门为解决教师开课需求而开发的服务平台。希望老师“像购物一样完成一门人工智能课程的搭建”，解决教学难题，我们深知院校老师在人工智能专业教学上的挑战，希望为人工智能人才培养助力。",
           "desc_en": "Mo-AI online teaching service is a platform developed by the Mo Artificial Intelligence team at Zhejiang University specifically to address the needs of teachers in creating courses. We aim to provide a solution to teaching challenges and enable teachers to easily build AI courses, just like shopping for products. We understand the challenges faced by university teachers in AI education and strive to support the cultivation of AI talents. ",
           "img_url": "https://imgbed.momodel.cn/sprintCamp/mo-saas%E5%9B%BE%E7%89%87%E6%A0%B7%E4%BE%8B.png"
+        },
+        {
+          "time": "2023.09",
+          "time_en": "2023.09",
+          "title": "【Mo AI编程】小程序新课程上线", 
+          "title_en": "Mo AI Programming new mini program course launched ",
+          "desc": "【Mo AI编程】小程序围绕 “AIGC” 这一概念，开设了基础概念与原理、AIGC 基础、应用领域、挑战与未来趋势四个方面的课程内容，并通过趣味性的案例，带领用户深入理解 AIGC 的核心概念和应用技术。",
+          "desc_en": "The Mo AI Programming mini program revolves around the concept of AIGC and offers courses in four areas: basic concepts and principles, AIGC foundations, application fields, challenges and future trends. It also uses interesting cases to guide users to deeply understand the core concepts and application technologies of AIGC. ",
+          "img_url": "https://imgbed.momodel.cn/mo/1024/2023_09_07_15_29_08_e126f2ab8d.png"
+        },
+        {
+          "time": "2023.09",
+          "time_en": "2023.09",
+          "title": "《人工智能导论》课程B站上线", 
+          "title_en": "The course “Introduction to Artificial Intelligence” is now available on Bilibili ",
+          "desc": "为了让用户能够享受到更为便捷的 AI 学习途径，Mo人工智能团队为浙江大学吴超老师录制了《人工智能导论》课程，并发布于B站平台，可以随时随地通过平台观看课程视频，并参与讨论和互动。",
+          "desc_en": "In order to allow users to enjoy a more convenient AI learning approach, the Mo Artificial Intelligence team recorded the “Introduction to Artificial Intelligence” course for Professor Wu Chao of Zhejiang University and released it on the Bilibili platform. Users can watch the course videos through the platform anytime and anywhere and participate in discussions and interactions. ",
+          "img_url": "https://imgbed.momodel.cn/mo/1024/9A3FA83B-3CD1-4a48-BBF4-6BD52B16A921.png"
+        },
+        {
+          "time": "2023.10",
+          "time_en": "2023.10",
+          "title": "Mo-AI大模型创意应用大赛成功举办", 
+          "title_en": "Mo-AI Large Model Creative Application Competition was successfully held ",
+          "desc": "为推动企业使用AI大模型发展技术创新应用、提升生产力与效率，浙江大学教育部协同创新中心与百度联合举办了【百度 x 智海 Mo——AI大模型创新应用大赛】，并与12月月底圆满落幕，共有14支队伍获奖！",
+          "desc_en": "In order to encourage enterprises to use AI big models to develop technological innovation applications and improve productivity and efficiency, the Collaborative Innovation Center of the Ministry of Education of Zhejiang University and Baidu jointly organized the “Baidu x Zhihai Mo - AI Big Model Innovation Application Competition”, which came to a successful conclusion at the end of December. A total of 14 teams won awards! ",
+          "img_url": "https://imgbed.momodel.cn/mo/1024/clipboard-image-1708589519.png"
+        },
+        {
+          "time": "2023.12",
+          "time_en": "2023.12",
+          "title": "Mo 人工智能教学实训平台年终发布会成功举办", 
+          "title_en": "Mo artificial intelligence teaching and training platform annual conference was successfully held ",
+          "desc": "为了深度探索教育与人工智能的融合，Mo 人工智能教学实训平台于12月12日举行了线上年终发布会，创始人吴超、产品总监李骏翔、首席顾问肖俊及相关合作伙伴出席了此次会议，并进行了相关发言，总结过去，展望未来。",
+          "desc_en": "In order to deeply explore the integration of education and artificial intelligence, the Mo Artificial Intelligence Teaching and Training Platform held an online year-end press conference on December 12. Founder Wu Chao, Product Director Li Junxiang, Chief Consultant Xiao Jun and relevant partners attended the meeting and made relevant speeches, summarizing the past and looking forward to the future. ",
+          "img_url": "https://imgbed.momodel.cn/mo/1024/7a2cabda05a93cedf018ee8cf853382.png"
+        },
+        {
+          "time": "2023.12",
+          "time_en": "2023.12",
+          "title": "Mo 受邀参加2023中国人工智能数字创新大会", 
+          "title_en": "Mo was invited to attend the 2023 China Artificial Intelligence Digital Innovation Conference ",
+          "desc": "Mo 人工智能团队于12月17日受邀参加了2023中国人工智能数字创新大会，在大会上展示了【Mo 人工智能教学实训平台】和【Mo AI编程小程序】两项创新成果。",
+          "desc_en": "On December 17, the Mo Artificial Intelligence team was invited to attend the 2023 China Artificial Intelligence Digital Innovation Conference, where they showcased two innovative achievements: the “Mo Artificial Intelligence Teaching and Training Platform” and the “Mo AI Programming Mini Program”. ",
+          "img_url": "https://imgbed.momodel.cn/mo/1024/8432dd53dbf5d726866751a499b4edf.png"
+        },
+        {
+          "time": "2023.12",
+          "time_en": "2023.12",
+          "title": "Mo 参与【提升高职人工智能专业教学质量】校企合作交流活动", 
+          "title_en": "Mo participated in the school-enterprise cooperation and exchange activity “Improving the teaching quality of artificial intelligence majors in higher vocational colleges” ",
+          "desc": "Mo人工智能团队于12月22日在金华职业技术学院信息工程学院深度参与一场关于【提升高职人工智能专业教学质量】的校企合作交流活动，从而实现紧密结合市场的人才培养模式与就业渠道的拓展。",
+          "desc_en": "On December 22, the Mo artificial intelligence team participated in a school-enterprise cooperation and exchange activity at the School of Information Engineering of Jinhua Vocational and Technical College on [Improving the Teaching Quality of Artificial Intelligence Majors in Higher Vocational Colleges], thereby realizing a talent training model that is closely integrated with the market and expanding employment channels. ",
+          "img_url": "https://imgbed.momodel.cn/mo/1024/A4C63649-D321-4a3b-9B82-327C97CC78C4.png"
+        },
+        {
+          "time": "2024.03",
+          "time_en": "2024.03",
+          "title": "人工智能能力评测系统上线", 
+          "title_en": "Artificial intelligence capability assessment system launched ",
+          "desc": "Mo 联合中国人工智能学会、中国人工智能产业发展联盟等机构，建立了标准化、中立性的人工智能能力评测，帮助学习者和企业之间建立人才输送机制，为国家人工智能人才培养与提供贡献力量！",
+          "desc_en": "Mo has joined hands with the China Artificial Intelligence Society, China Artificial Intelligence Industry Development Alliance and other institutions to establish a standardized and neutral artificial intelligence capability assessment to help establish a talent delivery mechanism between learners and enterprises, and contribute to the training and provision of national artificial intelligence talents! ",
+          "img_url": "https://imgbed.momodel.cn/mo/1024/a6d80adf3d99a83930ac2762d81ed02.png"
+        },
+        {
+          "time": "2024.03",
+          "time_en": "2024.03",
+          "title": "Mo 举办2024年睿抗机器人开发者大赛（RAICOM）", 
+          "title_en": "Mo holds the 2024 RAICOM Robotics Developer Competition ",
+          "desc": "为了促进数字技术、人工智能、机器人技术的创新应用，Mo 与工业和信息化部人才交流中心、北京搜获科技有限公司联合举办了以【机器人照护人】为主题的2024年睿抗机器人开发者大赛。",
+          "desc_en": "In order to promote the innovative application of digital technology, artificial intelligence, and robotics technology, Mo co-organized the 2024 Ruikang Robot Developer Competition with the theme of &quot;Robot Caregiver&quot; with the Talent Exchange Center of the Ministry of Industry and Information Technology and Beijing Sohuo Technology Co., Ltd. ",
+          "img_url": "https://imgbed.momodel.cn/mo/1024/23160942-4643-466d-8832-270CD678F256.png"
+        },
+        {
+          "time": "2024.03",
+          "time_en": "2024.03",
+          "title": "Mo 参加【AI+X 高校行】活动，与Datawhale 签署合作协议", 
+          "title_en": "Mo participated in the “AI+X University Tour” event and signed a cooperation agreement with Datawhale ",
+          "desc": "Mo 人工智能团队参加了由Datawhale 与杭州市人工智能学会主办的“AI+X 高校行”活动，并在活动现场与Datawhale签署了相关合作协议。",
+          "desc_en": "Mo artificial intelligence team participated in the “AI+X University Tour” event hosted by Datawhale and Hangzhou Artificial Intelligence Society, and signed a relevant cooperation agreement with Datawhale at the event. ",
+          "img_url": "https://imgbed.momodel.cn/mo/1024/40d0626afd632b9e83653ade0cc5b90.png"
+        },
+        {
+          "time": "2024.03",
+          "time_en": "2024.03",
+          "title": "人工智能学习软件——【Mo卡片】APP上线", 
+          "title_en": "Artificial intelligence learning software——“Mo Card”APP is launched ",
+          "desc": "【Mo卡片】APP是由浙江大学团队设计开发的一款专门用于学习人工智能相关知识的软件，以轻松、有趣的方式帮助用户了解ChatGPT、大模型等前沿A1科技新知，并汇聚了卡片集、风车游历、日历等多项功能。",
+          "desc_en": "“Mo Card”APP is a software designed and developed by a team from Zhejiang University specifically for learning artificial intelligence related knowledge. It helps users understand cutting-edge A1 technology knowledge such as ChatGPT and large models in an easy and interesting way, and brings together card collections, windmill tours, calendars and many other functions. ",
+          "img_url": "https://imgbed.momodel.cn/mo/1024/quality_restoration_20240627155302221.jpg"
         }
             ]
         }
