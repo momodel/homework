@@ -467,15 +467,50 @@
       "desc": "浙大吴超老师受邀年会，针对本次大会主题《聚焦人工智能大模型》，分享了关于人工智能教育与新一代人工智能科教平台的精彩发言。吴超老师指出，Mo平台的推出标志着人工智能教育领域正在迎来新的发展格局，为智慧教育开创崭新篇章，引领着教育科技的未来发展方向。",
       "desc_en": "Teacher Wu Chao from Zhejiang University was invited to the annual meeting and shared an excellent speech on artificial intelligence education and the new generation of AI science and education platforms, focusing on the theme of this conference, Focusing on Large-Scale AI Models.Teacher Wu Chao pointed out that the launch of the Zhihai platform marks a new development pattern in the field of artificial intelligence education, creating a new chapter for smart education and leading the future development direction of educational technology.",
       "img_url": "https://imgbed.momodel.cn/20240527.png"
-     },
+    },
     {
       "time": "2024.06",
       "time_en": "2024.06",
-      "title": "Mo举办2024壁仞科技“飞翔杯” GPU编程挑战赛",
+      "title": "Mo举办2024壁仞科技飞翔杯”GPU编程挑战赛",
       "title_en": "Mo held the 2024 Biren Technology Flying Cup GPU Programming Challenge",
       "desc": "为了促进数字技术、人工智能的创新应用，让更多人了解前沿的人工智能运用，探索人工智能的最新应用，并将其与日常场景紧密结合，Mo平台携手壁仞科技、中国人工智能学会、上海市人工智能行业协会，共同举办壁仞科技“飞翔杯” GPU编程挑战赛",
       "desc_en": "In order to promote the innovative application of digital technology and artificial intelligence, let more people understand the cutting-edge application of artificial intelligence, explore the latest applications of artificial intelligence, and closely integrate it with daily scenarios, Mo Platform has joined hands with Biren Technology, the Chinese Society for Artificial Intelligence, and the Shanghai Artificial Intelligence Industry Association to jointly hold the Feixiang Cup GPU Programming Challenge of Biren Technology",
       "img_url": "https://imgbed.momodel.cn/20240620.png"
-    }
+    },
+    {
+      "time": "2024.06",
+      "time_en": "2024.06",
+      "title": "Mo平台亮相央视",
+      "title_en": "Mo platform appeared on CCTV",
+      "desc": "近日，浙江大学在央视的报道中展示了其在人工智能教育领域的卓越成果，Mo平台也以其出色的功能和创新的教学模式亮相央视荧幕，共同为 AI 教育赋能，引领未来教育的新潮流！",
+      "desc_en": "Recently, Zhejiang University demonstrated its outstanding achievements in the field of artificial intelligence education in CCTV's report, and the Mo platform also appeared on the CCTV screen with its excellent functions and innovative teaching mode, jointly empowering AI education and leading the new trend of future education!",
+      "img_url": "https://imgbed.momodel.cn/20240628.jpg"
+    },
+    {
+      "time": "2024.07",
+      "time_en": "2024.07",
+      "title": "新一代人工智能产教育人创新中心",
+      "title_en": "Mo platform appeared on CCTV",
+      "desc": "Mo与浙江大学上海高等研究院、壁仞科技签订战略合作共建“新一代人工智能产教育人创新中心”，联合打造“课程+平台+算力”软硬协同的高校 AI 教科研一体化解决方案，赋能我国高校AI+科研型、AI+应用型、AI+创新型人才培养模式改革创新。",
+      "desc_en": "Mo signed a strategic cooperation with the Shanghai Institute for Advanced Study of Zhejiang University and Biren Technology to jointly build a new generation of artificial intelligence industry and educator innovation center, and jointly create an integrated solution for AI teaching and research in colleges and universities with software and hardware collaboration, empowering the reform and innovation of AI scientific research, AI application, and AI innovative talent training models in our country's universities.",
+      "img_url": "https://imgbed.momodel.cn/20240710.png"
+    },
+    {
+      "time": "2024.07",
+      "time_en": "2024.07",
+      "title": "兰州：人工智能人才培养探索与实践研讨会",
+      "title_en": "Lanzhou: Symposium on Exploration and Practice of Artificial Intelligence Talent Training",
+      "desc": "此次会议汇集了来自国内顶尖大学、创新型研发机构以及人工智能行业的7位杰出专家，并做了精彩纷呈的主题演讲。而Mo平台也在本次大会上备受瞩目，多位分享嘉宾就Mo平台对于人才培养及教学实践的应用展开精彩演讲。",
+      "desc_en": "The conference brought together 7 outstanding experts from top universities, innovative R&D institutions and the artificial intelligence industry in China, and gave wonderful keynote speeches. The Mo platform also attracted much attention at this conference, and many sharing guests gave wonderful speeches on the application of the Mo platform for talent training and teaching practice.",
+      "img_url": "https://imgbed.momodel.cn/20240722.png"
+    },
+    {
+      "time": "2024.08",
+      "time_en": "2024.08",
+      "title": "睿抗机器人开发者大赛全国总决赛CAIP任务应用和算法调优赛项顺利完赛",
+      "title_en": "The CAIP task application and algorithm tuning competition of the national finals of the Ruikang Robot Developer Competition was successfully completed",
+      "desc": "2024年8月25日睿抗机器人开发者大赛全国总决赛CAIP赛道任务应用赛和算法调优赛项线下赛在浙江大学紫金港校区圆满完赛。本次决赛由浙江大学Mo平台（momodel.cn）与浙江大学信息技术中心参与支持，本次合作也是睿抗机器人开发者大赛在各领域合作的一个典型示范，大赛将持续助力新形态、新趋势。",
+      "desc_en": "On August 25, 2024, the National Finals of the Ruikang Robot Developer Competition, the CAIP track task application competition and the offline competition of the algorithm tuning competition were successfully completed at the Zijingang Campus of Zhejiang University. This final is supported by the Mo platform (momodel.cn) of Zhejiang University and the Information Technology Center of Zhejiang University, and this cooperation is also a typical demonstration of cooperation in various fields of the Ruikang Robot Developer Competition, which will continue to help new forms and trends.",
+      "img_url": "https://imgbed.momodel.cn/20240824.png"
   ]
 }
