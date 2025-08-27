@@ -471,7 +471,7 @@
     {
       "time": "2024.06",
       "time_en": "2024.06",
-      "title": "Mo举办2024壁仞科技飞翔杯”GPU编程挑战赛",
+      "title": "Mo协办2024壁仞科技“飞翔杯”GPU编程挑战赛",
       "title_en": "Mo held the 2024 Biren Technology Flying Cup GPU Programming Challenge",
       "desc": "为了促进数字技术、人工智能的创新应用，让更多人了解前沿的人工智能运用，探索人工智能的最新应用，并将其与日常场景紧密结合，Mo平台携手壁仞科技、中国人工智能学会、上海市人工智能行业协会，共同举办壁仞科技“飞翔杯” GPU编程挑战赛",
       "desc_en": "In order to promote the innovative application of digital technology and artificial intelligence, let more people understand the cutting-edge application of artificial intelligence, explore the latest applications of artificial intelligence, and closely integrate it with daily scenarios, Mo Platform has joined hands with Biren Technology, the Chinese Society for Artificial Intelligence, and the Shanghai Artificial Intelligence Industry Association to jointly hold the Feixiang Cup GPU Programming Challenge of Biren Technology",
@@ -512,6 +512,168 @@
       "desc": "2024年8月25日睿抗机器人开发者大赛全国总决赛CAIP赛道任务应用赛和算法调优赛项线下赛在浙江大学紫金港校区圆满完赛。本次决赛由浙江大学Mo平台（momodel.cn）与浙江大学信息技术中心参与支持，本次合作也是睿抗机器人开发者大赛在各领域合作的一个典型示范，大赛将持续助力新形态、新趋势。",
       "desc_en": "On August 25, 2024, the National Finals of the Ruikang Robot Developer Competition, the CAIP track task application competition and the offline competition of the algorithm tuning competition were successfully completed at the Zijingang Campus of Zhejiang University. This final is supported by the Mo platform (momodel.cn) of Zhejiang University and the Information Technology Center of Zhejiang University, and this cooperation is also a typical demonstration of cooperation in various fields of the Ruikang Robot Developer Competition, which will continue to help new forms and trends.",
       "img_url": "https://imgbed.momodel.cn/20240824.png"
+    },
+    {
+      "time": "2024.09",
+      "time_en": "2024.09",
+      "title": "Mo受邀参加“智驭未来：本科生AI素养筑基计划”启动会",
+      "title_en": "Mo was invited to attend the launch meeting of Intelligent Driving Future: Undergraduate AI Literacy Foundation Plan",
+      "desc": "2024年9月14日，浙大吴超老师受邀参与南京工业大学“智驭未来：本科生AI素养筑基计划”启动会，分享了关于人工智能教育与新一代人工智能科教平台的精彩发言。智海平台的推出标志着人工智能教育领域正在迎来新的发展格局，为智慧教育开创崭新篇章，引领着教育科技的未来发展方向。",
+      "desc_en": "On September 14, 2024, Professor Wu Chao of Zhejiang University was invited to participate in the kick-off meeting of Nanjing University of Technology's Intelligent Future: Undergraduate AI Literacy Foundation Building Program and shared a wonderful speech on artificial intelligence education and the new generation of artificial intelligence science and education platform. The launch of the Zhihai platform marks that the field of artificial intelligence education is ushering in a new development pattern, creating a new chapter for smart education and leading the future development direction of educational technology.",
+      "img_url": "https://imgbed.momodel.cn/20240914.webp"
+    },
+    {
+      "time": "2024.09",
+      "time_en": "2024.09",
+      "title": "2024壁仞科技“飞翔杯”GPU编程挑战赛圆满落幕",
+      "title_en": "Mo was invited to attend the launch meeting of Intelligent Driving Future: Undergraduate AI Literacy Foundation Plan",
+      "desc": "经过一个多月的激烈角逐，备受关注的2024壁仞科技“飞翔杯”GPU编程挑战赛于近日圆满落幕。浙大吴飞老师在颁奖仪式线上致辞中指出，当前人工智能正在向人工智能+跃进，体现出了运用驱动的鲜明特点。高校学子们应该了解、使用、创新人工智能，才能运用人工智能去赋能人类社会的进步和经济发展",
+      "desc_en": "After more than a month of fierce competition, the much-anticipated 2024 Biren Technology Feixiang Cup GPU Programming Challenge has recently come to a successful conclusion. In his online speech at the award ceremony, Mr. Wu Fei of Zhejiang University pointed out that artificial intelligence is currently making a leap towards artificial intelligence, reflecting the distinctive characteristics of application-driven. College students should understand, use and innovate artificial intelligence in order to use artificial intelligence to empower the progress and economic development of human society.",
+      "img_url": "https://imgbed.momodel.cn/20240915.webp"
+    },
+    {
+      "time": "2024.10",
+      "time_en": "2024.10",
+      "title": "诺奖后谈AI|人工智能通识课程系列公开课上架",
+      "title_en": "Post-Nobel Prize Talks on AI | Series of Public Lectures on General Knowledge of Artificial Intelligence Launched",
+      "desc": "由中国人工智能学会主办，国家开放大学、浙江大学人工智能教育教学研究中心联合承办的人工智能通识课程系列直播公开课于2024年10月14日起，每周一晚上在Mo平台面向公众直播！",
+      "desc_en": "Sponsored by the Chinese Society for Artificial Intelligence and jointly organized by the National Open University and the Artificial Intelligence Education and Teaching Research Center of Zhejiang University, the series of live broadcast open classes of artificial intelligence general education courses will be broadcast live to the public on the Mo platform every Monday night starting from October 14, 2024!",
+      "img_url": "https://imgbed.momodel.cn/20241021.png"
+    },
+    {
+      "time": "2024.10",
+      "time_en": "2024.10",
+      "title": "Mo在“智启新篇 慧见未来”人工智能人才发展研讨会精彩亮相",
+      "title_en": "Mo made a brilliant appearance at the Intelligent Initiation of New Chapter, Wisdom Vision of Future Artificial Intelligence Talent Development Symposium",
+      "desc": "本次研讨会聚焦探讨人工智能领域的人才培养与发展战略，浙江大学人工智能研究所副所长肖俊介绍了教育部在人工智能教育改革中的方向和进展，并展示了以“智海人工智能训练平台”为代表的浙江大学在该领域的努力和实践。",
+      "desc_en": "Xiao Jun, deputy director of the Institute of Artificial Intelligence of Zhejiang University, introduced the direction and progress of the Ministry of Education in the reform of artificial intelligence education, and demonstrated the efforts and practices of Zhejiang University in this field represented by the Zhihai Artificial Intelligence Training Platform.",
+      "img_url": "https://imgbed.momodel.cn/20241024.webp"
+    },
+    {
+      "time": "2024.11",
+      "time_en": "2024.11",
+      "title": "Mo平台联合Datawhale，《OPEN AI通识课》重磅发布！",
+      "title_en": "Mo platform, in collaboration with Datawhale, has launched the "OPEN AI General Knowledge Course" with great force!",
+      "desc": "由Datawhale 联合Mo平台推出的《OPEN AI 通识课》于 COSCon'24 中国开源年会正式发布！OPEN AI 通识课聚焦产学融合，致力于面向行业培养 AI+X 的复合型人才，将链接全国 3000 余所高校、企业及组织机构，共同推动 AI 教育和产业的繁荣发展。",
+      "desc_en": "The OPEN AI General Course launched by Datawhale and Mo platform was officially released at COSCon'24 China Open Source Annual Conference! The OPEN AI General Studies course focuses on the integration of industry and academia, and is committed to cultivating AI X compound talents for the industry, and will link more than 3,000 universities, enterprises and organizations across the country to jointly promote the prosperity and development of AI education and industry.",
+      "img_url": "https://imgbed.momodel.cn/20241102.webp"
+    },
+    {
+      "time": "2024.11",
+      "time_en": "2024.11",
+      "title": "上海浙江大学高等研究院、一蓦科技、中兴通讯、壁仞科技教育一体机战略合作协议成功签约",
+      "title_en": "Shanghai Zhejiang University High-Tech Institute, Yimo Technology, ZTE Communications, and Bairu Technology Education All-in-One Strategic Cooperation Agreement Successfully Signed",
+      "desc": "2024年11月11日，上海浙江大学高等研究院携手一蓦科技、中兴通讯、壁仞科技，成功签署“教育一体机”战略合作协议。 此次合作，不仅是技术与教育的深度融合，更是对未来教育形态的一次勇敢探索。让我们共同期待，这一创新联盟将引领中国教育科技的新篇章！",
+      "desc_en": "On November 11, 2024, the Institute for Advanced Study of Zhejiang University in Shanghai joined hands with Yimi Technology, ZTE, and Biren Technology to successfully sign a strategic cooperation agreement on education all-in-one machines. This cooperation is not only a deep integration of technology and education, but also a brave exploration of future forms of education. Let's look forward to this innovation alliance leading a new chapter in China's education technology!",
+      "img_url": "https://imgbed.momodel.cn/20241111.png"
+    },
+    {
+      "time": "2024.12",
+      "time_en": "2024.12",
+      "title": "Mo携手浙江省科协举办科普教育活动",
+      "title_en": "Mo collaborates with Zhejiang Provincial Association for Science and Technology to hold science popularization education activities",
+      "desc": "为推动人工智能技术创新、人才培养与生态建设，Mo携手浙江省科协举办科普教育直播活动，浙大吴超老师在直播中分享了人工智能的前沿动态，深入探讨AI与社会科学的碰撞与融合，揭示AI如何重新定义我们的社会。",
+      "desc_en": "In order to promote artificial intelligence technology innovation, talent training and ecological construction, Mo and Zhejiang Association for Science and Technology held a live broadcast of popular science education, in which Wu Chao, a teacher from Zhejiang University, shared the cutting-edge trends of artificial intelligence, deeply explored the collision and integration of AI and social sciences, and revealed how AI redefines our society.",
+      "img_url": "https://imgbed.momodel.cn/20241213.png"
+    },
+    {
+      "time": "2025.01",
+      "time_en": "2025.01",
+      "title": "Mo携手钉钉与浙大，开启高校AI通识教育新篇章",
+      "title_en": "Mo joined hands with DingTalk and Zhejiang University to open a new chapter in AI general education in colleges and universities",
+      "desc": "2025年1月21日，钉钉与浙江大学上海高等研究院、一蓦科技在阿里巴巴西溪园区C区举行战略合作签约仪式，联合发布面向高校的AI通识课，结合浙江大学在AI科研与教学方面的深厚积累与钉钉在千行百业丰富的AI实践，打造强强联合的AI人才培养方案。",
+      "desc_en": "On January 21, 2025, DingTalk, the Shanghai Institute for Advanced Study of Zhejiang University, and Yimi Technology held a strategic cooperation signing ceremony in Area C of Alibaba's Baxixi Park to jointly release AI general education courses for universities, combining Zhejiang University's deep accumulation in AI scientific research and teaching with DingTalk's rich AI practices in thousands of industries to create a strong alliance AI talent training plan.",
+      "img_url": "https://imgbed.momodel.cn/20250124.webp"
+    },
+    {
+      "time": "2025.01",
+      "time_en": "2025.01",
+      "title": "浙大智海Mo人工智能通识课程及实训平台上线！",
+      "title_en": "Mo joined hands with DingTalk and Zhejiang University to open a new chapter in AI general education in colleges and universities",
+      "desc": "为响应国家“新一代人工智能科技创新平台”战略，Mo人工智能通识课以实践为导向，集成交互式实训平台“智海-Mo”与教育大模型“智海-三乐”，提供从基础认知到行业级项目实战的全链路教学支持。",
+      "desc_en": "In response to the national strategy of New Generation Artificial Intelligence Technology Innovation Platform, the Mo artificial intelligence general education course is practice-oriented, integrating the interactive training platform "Zhihai-Mo" and the educational model "Zhihai-Sanle" to provide full-link teaching support from basic cognition to actual combat of industry-level projects.",
+      "img_url": "https://imgbed.momodel.cn/20250126.png"
+    },
+    {
+      "time": "2025.02",
+      "time_en": "2025.02",
+      "title": "浙江大学XDeepSeek系列专题公开课上线！",
+      "title_en": "Zhejiang University X DeepSeek Series Special Open Classes Launched!",
+      "desc": "为了系统解析DeepSeek在技术、应用与伦理交织演进下的革新性探索，带领大家深入了解DeepSeek的“破圈”与“扎根”，浙江大学人工智能科研团队推出DeepSeek系列专题线上公开课。",
+      "desc_en": "In order to systematically analyze DeepSeek's innovative exploration under the interweaving and evolution of technology, application and ethics, and lead everyone to gain an in-depth understanding of DeepSeek's breakthrough and rooting, the artificial intelligence research team of Zhejiang University launched a series of special online open courses.",
+      "img_url": "https://imgbed.momodel.cn/20250217.webp"
+    },
+    {
+      "time": "2025.03",
+      "time_en": "2025.03",
+      "title": "DeepSeek 装备站上架Mo卡片APP",
+      "title_en": "DeepSeek Equipment Station Launches Mo Card",
+      "desc": "为了助力大家高效学习AI，全套DeepSeek装备站上架Mo卡片APP。用户能利用碎片化时间趣味入门DeepSeek，轻松掌握其核心知识，在手机上即刻开启AI学习之旅！",
+      "desc_en": "In order to help everyone learn AI efficiently, the full set of DeepSeek equipment stations is now available on the Mo Card APP! Users can use DeepSeek to get started with Fragmented Time Fun, easily grasp its core knowledge, and start the AI learning journey on their mobile phones instantly!",
+      "img_url": "https://imgbed.momodel.cn/202503.png"
+    },
+    {
+      "time": "2025.03",
+      "time_en": "2025.03",
+      "title": "Datawhale×浙大智海Mo平台联合发布Deepseek通识课",
+      "title_en": "Datawhale × Zhejiang University Zhihai Mo platform jointly released the Deepseek general education course",
+      "desc": "Mo平台与Datawhale联合发布《能应用的Deepseek通识课》，整合浙大名师课程与Datawhale开源社区应用课程和产学资源，为全国高校师生提供一套系统、实用的AI通识课程，计划覆盖全国1000所高校，赋能10万名师生。",
+      "desc_en": "Datawhale and Mo platform jointly released the Deepseek General Courses that Can Be Used, integrating Zhejiang University's famous teacher courses and Datawhale open source community application courses and industry-academia resources to provide a set of systematic and practical AI general education courses for teachers and students in colleges and universities across the country, covering 1,000 colleges and universities across the country, empowering 100,000 teachers and students.",
+      "img_url": "https://imgbed.momodel.cn/202503.png"
+    },
+    {
+      "time": "2025.04",
+      "time_en": "2025.04",
+      "title": "智海Mo×睿抗组委会联手举办智海算法应用赛",
+      "title_en": "Zhihai Mo×Ruikang Organizing Committee jointly held the Zhihai Algorithm Application Competition",
+      "desc": "为进一步降低AI应用门槛、激发全民创新活力，智海Mo平台联合睿抗机器人开发者竞赛组委会共同发起智海算法应用赛。本次赛事聚焦人工智能技术的实践与落地，旨在通过真实场景的算法设计与应用挑战，推动参赛者深入理解AI技术逻辑，掌握从理论到实践的全流程能力。",
+      "desc_en": "In order to further lower the threshold for AI application and stimulate the innovation vitality of the whole people, the Zhihai Mo platform and the Ruikang Robot Developer Competition Organizing Committee jointly launched the Zhihai Algorithm Application Competition. This competition focuses on the practice and implementation of artificial intelligence technology, aiming to promote participants to deeply understand the logic of AI technology and master the whole process ability from theory to practice through algorithm design and application challenges in real scenarios.",
+      "img_url": "https://imgbed.momodel.cn/202504.png"
+    },
+    {
+      "time": "2025.05",
+      "time_en": "2025.05",
+      "title": "浙江省人工智能素养能力评测上线Mo平台",
+      "title_en": "Zhejiang Province's artificial intelligence literacy ability evaluation was launched on the Mo platform",
+      "desc": "为贯彻落实提升人工智能素养，助力数字化改革与智能社会发展，浙江省科学技术协会联合浙江省计算机学会、浙江大学智海Mo人工智能平台，共同开展浙江省人工智能素养能力评测活动",
+      "desc_en": "In order to implement the improvement of artificial intelligence literacy and help digital reform and the development of intelligent society, Zhejiang Science and Technology Association, together with Zhejiang Computer Society and Zhejiang University Zhihai Mo artificial intelligence platform, jointly carried out the evaluation of artificial intelligence literacy ability in Zhejiang Province",
+      "img_url": "https://imgbed.momodel.cn/20250524.png"
+    },
+    {
+      "time": "2025.06",
+      "time_en": "2025.06",
+      "title": "媒体聚焦｜Mo平台登上浙江日报",
+      "title_en": "Media Focus|Mo platform appeared in Zhejiang Daily",
+      "desc": "《浙江日报》专题报道浙江大学人工智能通识教育教学探索实践路径，深度呈现了以分层分类、跨学科融合为核心的AI教育创新模式。",
+      "desc_en": "Zhejiang Daily reported on the exploration and practice path of artificial intelligence general education teaching at Zhejiang University, and deeply presented the AI education innovation model with hierarchical classification and interdisciplinary integration as the core.",
+      "img_url": "https://imgbed.momodel.cn/202506.png"
+    },
+    {
+      "time": "2025.06",
+      "time_en": "2025.06",
+      "title": "Mo协办第二届壁仞科技“飞翔杯”AI应用创新挑战赛",
+      "title_en": "Mo co-organized the 2nd Biren Technology Feixiang Cup AI Application Innovation Challenge",
+      "desc": "上海市计算机行业协会、壁仞科技主办的第二届“飞翔杯”AI应用创新挑战赛正式开赛，揭榜赛题由壁仞科技、华山医院、一蓦科技出题，聚焦AI4S、智慧医疗、实训项目三大场景。本次大赛不仅为 AI 开发者提供实践舞台，更将助力关键行业智能化转型，构建可持续发展的技术创新生态。",
+      "desc_en": "The second Feixiang Cup AI Application Innovation Challenge hosted by Shanghai Computer Industry Association and Bicheng Technology officially kicked off, and the unveiling questions were written by Bicheng Technology, Huashan Hospital, and Yimi Technology, focusing on three major scenarios: AI4S, smart medical care, and practical training projects. This competition not only provides a practical stage for AI developers, but also helps the intelligent transformation of key industries and build a sustainable technological innovation ecosystem.",
+      "img_url": "https://imgbed.momodel.cn/20250620.png"
+    },
+    {
+      "time": "2025.07",
+      "time_en": "2025.07",
+      "title": "Mo平台入选《2025年“人工智能+”行业标杆案例荟萃》",
+      "title_en": "Mo platform was selected as the 2025 Artificial Intelligence Industry Benchmark Case Collection"",
+      "desc": "为深入贯彻落实国家“人工智能+”行动计划，推动人工智能与实体经济深度融合，《2025年“ 人工智能 +”行业标杆案例荟萃》在2025世界人工智能大会中发布，多维度展现“人工智能+”推进成果全景。由壁仞科技、浙江大学上海高等研究院、一蓦科技联合打造的“ AI 教育：课程+平台+算力一体化解决方案”成功入选“垂类场景”方向示范案例。",
+      "desc_en": "In order to thoroughly implement the national artificial intelligence action plan and promote the deep integration of artificial intelligence and the real economy, the "2025 "Artificial Intelligence" Industry Benchmark Case Collection" was released at the 2025 World Artificial Intelligence Conference, showing a panoramic view of the achievements of "artificial intelligence" promotion in multiple dimensions. The AI Education: Curriculum, Platform, and Computing Power Integration Solution jointly created by Biren Technology, Shanghai Institute for Advanced Study of Zhejiang University, and Yimi Technology was successfully selected as a demonstration case in the direction of vertical scenarios.",
+      "img_url": "https://imgbed.momodel.cn/20250729.jpg"
+    },
+    {
+      "time": "2025.08",
+      "time_en": "2025.08",
+      "title": "“多智能体社会仿真前沿探索”系列学术讲座开播！",
+      "title_en": "The series of academic lectures on Exploration of the Frontier of Multi-agent Social Simulation is launched!",
+      "desc": "为促进人工智能发展的学术交融与创新突破，Mo携手各大高校举办“多智能体社会仿真前沿探索”系列学术讲座，直播聚焦前沿动态，分享核心技术与研究成果，助力广大学生及从业者深化认知、共探方向，为该领域高质量发展凝聚智慧力量。",
+      "desc_en": "In order to promote academic integration and innovative breakthroughs in the development of artificial intelligence, Mo and major universities held a series of academic lectures on Exploration of the Frontier of Multi-agent Social Simulation, focusing on cutting-edge trends, sharing core technologies and research results, helping students and practitioners deepen their cognition, explore directions together, and gather wisdom for the high-quality development of this field.",
+      "img_url": "https://imgbed.momodel.cn/20250807.png"
     }
   ]
 }
